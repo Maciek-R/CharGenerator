@@ -1,0 +1,1 @@
+Generator znakow na wyswietlaczu HD44780
